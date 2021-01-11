@@ -1,0 +1,22 @@
+Case study instructions
+"The instructions given here must be completed in the ""Exercice"" sheet. You will find the data related to these instructions in the ""artikel"" sheet.
+You must leave the formulas you are using visible. 
+You should try to do as much as possible. Good luck !"
+
+
+1. Using a formula, put the first 2 characters of the artikelnummer in the column B
+2. Using a formula, put the last 2 characters of the artikelnummer in the column C
+3. Using a formula, put the middle 2 characters of the artikel nummer in the column D
+4. Using a formula, extract the weight (gewicht) for each artikelnummer in column E, use a formula so that #NA do not appear.
+5. Make a hard copy of the column E and paste it into column F
+6. Using a formula extract the first numbers of the column F preceeding the "," and put them into column G
+7. In the column H, using a formula, put a "YES" if the weight is superior to 30 and a "NO" if the weight is inferior to 30
+8. From the artikel sheet, extract each "Blabla" matching each of your artikelnummer into column I
+9. In the "Blabla" column, replace each ";" by a line break. You should use a formula. Put the result into column J.
+10. Make a hard copy of your results and paste them into column K
+11. With the help of a formula, extract all information preceeding "mm" from the column K. Put each result into column L. 
+12. Insert the "Langtextnummer" into the column M. You can find them in the tab "Artikel".
+13. Gather the data of the "Description" sheet into one cell for each "Langtextnummer" (TT10). The description is divided into several parts in the "Description" tab. Put the parts together into one in a new tab. You have an example of the result you should get in the red cell in the description sheet
+14. Insert the finished "Description" from .11 A in the column N of your exercice sheet using the "langtextnummer" column.
+15. Open a new sheet and re-organize all the data from the "artikel"sheet in order to present them in the clearest way possible. You are totally free, be as creative as you can. 
+
